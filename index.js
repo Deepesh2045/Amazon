@@ -7,10 +7,10 @@ app.use(express.json());
 
 // register routes
 app.use(productRouter);
-app.use(sellerRouter);class
+app.use(sellerRouter);
 
 // Port
-const port = 3002;
+let port = 3002;
 app.listen(port, () => {
   console.log(`App is listening on ${port}`);
 });
