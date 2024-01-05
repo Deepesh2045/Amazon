@@ -1,6 +1,0 @@
-{
-  "explorer.excludeGitIgnore": true,
-  "git.ignoreLegacyWarning": true,
-  "git.ignoreMissingGitWarning": true,
-  "git.enabled": true
-}
